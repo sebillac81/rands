@@ -1,0 +1,44 @@
+
+Randsero
+	- Login
+	- Pantalla principal: R&S del día
+	   - Quien le toca
+	   - ver foto
+	   - Poder comentar la foto
+	- Crear publicacion
+	   - sacar foto
+	   - Comentar la publicación
+	   - indicar si es casero
+	- Ver calendario
+	   - Poder ver todos los días
+	   - Poder ver los propios
+	- Mensaje al administrador
+	- Darse de baja
+
+Invitado
+	- Login
+	- Pantalla principal: R&S del día
+	   - Quien le toca
+	   - ver foto
+	- Ver calendario
+	   - Poder ver todos los días
+	- Solicitar ser Randsero
+	- Darse de baja
+
+
+Usuario Admin
+	- Login
+	- Pantalla principal: R&S del día
+	   - Quien le toca
+	   - ver foto
+	   - Poder comentar la foto
+	- Crear publicacion
+	   - sacar foto
+	   - Comentar la publicación
+	- Ver calendario
+	   - Poder ver todos los días
+	   - Poder ver los propios
+	   - Asignar persona (tener listado)
+	- Modificar publicacion
+	- Alta/Modificar/Eliminar usuario
+	- 
